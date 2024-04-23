@@ -1,0 +1,20 @@
+.clockContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Define a altura para preencher a tela verticalmente */
+}
+
+.clock {
+  text-align: center;
+}
+
+.clock h1 {
+  font-size: 20px;
+}
+
+.clock p {
+  font-size: 100px; /* Tamanho grande para o horário */
+  font-weight: bold;
+  color: brown;
+}
